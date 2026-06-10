@@ -35,11 +35,7 @@ View statistics, reports, and activity logs.
 [8] 🛡️ Safety Tools
 Account protection and security utilities.
 
-[9] 💬 Bulk Messaging
-Send messages to multiple users.
 
-[10] 📢 Mass Campaigns (NEW)
-Launch bulk messaging campaigns.
 
 [...] Additional Modules
 
